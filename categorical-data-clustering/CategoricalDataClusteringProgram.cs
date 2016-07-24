@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace categorical_data_clustering
 {
-    class Program
+    class CategoricalDataClusteringProgram
     {
         static void Main(string[] args)
         {
